@@ -379,17 +379,7 @@ function App() {
 
 
   return (
-    <div className="App" style={({ height: "100vh" }, { display: "flex" })}>
-        <div className="container" style={{ padding: "50px" }}>
-          <div className="row">
-          <div class="card box" width={"18rem"} >
-            <div class="card-body box-body">
-                <PlayerList players={players}/>
-            </div>
-          </div>
-          </div>
-        </div>
-    </div>
+    <PlayerList players={players}/>
   );
 }
 
