@@ -1,0 +1,115 @@
+[
+    {
+      "nom": "LeBron James",
+      "equipe": "Los Angeles Lakers",
+      "stat": {
+        "match": 5,
+        "matchJoue": 10,
+        "pointParMatch": 10,
+        "rebondParMatch": 20,
+        "passeDecisifParMatch": 20,
+        "minuteParMatch": 10,
+        "efficacite": 20,
+        "fieldGoal": 10,
+        "threePoint": 2,
+        "lancerFront": 10
+      }
+    },
+    {
+      "nom": "Stephen Curry",
+      "equipe": "Golden State Warriors",
+      "stat": {
+        "match": 8,
+        "matchJoue": 12,
+        "pointParMatch": 25,
+        "rebondParMatch": 5,
+        "passeDecisifParMatch": 10,
+        "minuteParMatch": 30,
+        "efficacite": 28,
+        "fieldGoal": 45,
+        "threePoint": 40,
+        "lancerFront": 90
+      }
+    },
+    {
+      "nom": "Giannis Antetokounmpo",
+      "equipe": "Milwaukee Bucks",
+      "stat": {
+        "match": 7,
+        "matchJoue": 11,
+        "pointParMatch": 30,
+        "rebondParMatch": 15,
+        "passeDecisifParMatch": 8,
+        "minuteParMatch": 32,
+        "efficacite": 32,
+        "fieldGoal": 55,
+        "threePoint": 25,
+        "lancerFront": 78
+      }
+    },
+    {
+      "nom": "Kevin Durant",
+      "equipe": "Brooklyn Nets",
+      "stat": {
+        "match": 6,
+        "matchJoue": 9,
+        "pointParMatch": 28,
+        "rebondParMatch": 7,
+        "passeDecisifParMatch": 12,
+        "minuteParMatch": 34,
+        "efficacite": 30,
+        "fieldGoal": 50,
+        "threePoint": 38,
+        "lancerFront": 88
+      }
+    },
+    {
+        "nom": "Kawhi Leonard",
+        "equipe": "LA Clippers",
+        "stat": {
+          "match": 7,
+          "matchJoue": 12,
+          "pointParMatch": 27,
+          "rebondParMatch": 8,
+          "passeDecisifParMatch": 5,
+          "minuteParMatch": 33,
+          "efficacite": 29,
+          "fieldGoal": 48,
+          "threePoint": 35,
+          "lancerFront": 87
+        }
+      },
+      {
+        "nom": "James Harden",
+        "equipe": "Houston Rockets",
+        "stat": {
+          "match": 6,
+          "matchJoue": 11,
+          "pointParMatch": 32,
+          "rebondParMatch": 6,
+          "passeDecisifParMatch": 11,
+          "minuteParMatch": 36,
+          "efficacite": 31,
+          "fieldGoal": 47,
+          "threePoint": 37,
+          "lancerFront": 89
+        }
+    },
+    {
+        "nom": "Luka Doncic",
+        "equipe": "Dallas Mavericks",
+        "stat": {
+        "match": 6,
+        "matchJoue": 9,
+        "pointParMatch": 29,
+        "rebondParMatch": 9,
+        "passeDecisifParMatch": 11,
+        "minuteParMatch": 35,
+        "efficacite": 31,
+        "fieldGoal": 52,
+        "threePoint": 33,
+        "lancerFront": 87
+        }
+    }
+  ]
+  
