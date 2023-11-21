@@ -1,0 +1,32 @@
+/* Ajoutez ces styles dans un fichier CSS séparé, par exemple PlayerList.css */
+
+.container {
+    max-width: 1000px; /* Ajustez la largeur maximale selon vos besoins */
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .Table {
+    margin-top: 20px;
+    width: 100%; 
+    max-height: 500px;
+  }
+
+  th, td {
+    text-align: center;
+    padding: 12px; /* Ajustez la taille de la cellule selon vos besoins */
+  }
+  
+  /* Styles pour les lignes impaires du tableau */
+  tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+  
+  /* Styles pour les lignes paires du tableau */
+  tbody tr:nth-child(even) {
+    background-color: #ffffff;
+  }
+  

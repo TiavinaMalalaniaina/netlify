@@ -1,0 +1,9 @@
+.box {
+    background-color: rgba(255, 255, 255, 0.356);
+}
+
+.box-body {
+    max-height: 700px;
+    overflow-y: auto;
+}
+

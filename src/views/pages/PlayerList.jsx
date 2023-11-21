@@ -1,13 +1,15 @@
-import { Table } from 'react-bootstrap';
+import './../../styles/PlayerList.css';
+import './../../assets/bootstrap/css/bootstrap.min.css';
 
 const PlayerList = ({players}) => {
   
   return (
     <div className="container mt-5">
     <h2>Statistiques des joueurs NBA</h2>
-    <Table striped bordered hover>
+    <table className='table table-striped table-bordered'>
       <thead>
         <tr>
+          <th>#</th>
           <th>Nom</th>
           <th>Équipe</th>
           <th>M</th>
@@ -41,7 +43,7 @@ const PlayerList = ({players}) => {
           </tr>
         ))}
       </tbody>
-    </Table>
+    </table>
   </div>
   );
 };
