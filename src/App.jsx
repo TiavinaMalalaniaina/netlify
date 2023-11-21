@@ -14,11 +14,7 @@ function App() {
         <MySidebar/>
         <div className="container" style={{ padding: "50px" }}>
           <div className="row">
-            <Routes>
-              <Route path='/' element={<StockAvailability/>}/>
-              <Route path='/entry' element={<StockEntry/>}/>
-              <Route path='/output' element={<StockOutput/>}/>
-            </Routes>
+            <p>Test</p>
           </div>
         </div>
       </ProSidebarProvider>
